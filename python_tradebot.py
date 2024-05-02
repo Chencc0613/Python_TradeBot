@@ -14,8 +14,8 @@ SYMBOL = 'ETHUSDT'
 config_logging(logging, logging.DEBUG)
 kline_data = pd.DataFrame()
 
-API_KEY = 'gx7p7ZsQ40elPdvMONdZMOeMv3CWABMR4Jk8g1GpvpJadAzCwdDthpiehMAgToxA'
-SECRET_KEY = 'ckA6H5lw7KriC2wRBb1EutmaTe5FxVQjqFgHsT0ySj8m71EveS6M7rtnUc54rRLy'
+API_KEY = 'your_api_key'
+SECRET_KEY = 'your_secret_key'
 BASE_URL = 'https://fapi.binance.com'
 
 um_futures_client = UMFutures(key=API_KEY, secret=SECRET_KEY, base_url=BASE_URL)
