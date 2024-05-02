@@ -6,7 +6,7 @@
 ## Dependencies
 ```
 pip install pandas
-pip install talib(要先在官網載到程式下)
+pip install talib #(要先在官網載到程式下)
 pip install binance-futures-connector
 pip install pyerror
 ```
