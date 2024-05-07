@@ -1,7 +1,7 @@
 # Python_TradeBot
 ---
 ## Description
-這是一個用 Python 實現的自動交易機器人
+這是一個用 Python 實現的自動交易機器人，report 可見: https://drive.google.com/file/d/1-Q9n3c2TzkduTQZBCegPO4ARJKPsDykh/view?usp=sharing
 
 ## Dependencies
 ```
